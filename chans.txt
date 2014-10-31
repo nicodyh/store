@@ -2961,5 +2961,4 @@
 <url tvsource="CUTV" ><![CDATA[http://url.52itv.cn/live/6E4E314D53793768613266516279364D776D98.m3u8]]></url>
 </tv>
 </tvlist>
-
 </xml>
