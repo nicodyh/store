@@ -13,37 +13,26 @@
             <name>CCTV-1</name>
             <url tvsource="ZGQ">rtmp://live.asbctv.com/livepkgr/ln120asUBiNYsYoats8AbvqT0mfBclSk246JHoLj0TIibO37R3zdi14</url>
             <url tvsource="116">http://vapptime.cntv.wscdns.com/cache/14_/seg0/index.m3u8</url>
-            <url tvsource="bj">http://v14.tv.cctv5.cctv.com/approve/live?type=ipad&amp;channel=CCTV1HD</url>
-            <url tvsource="HD">http://122.227.245.147:8000/live/flv/channel13</url>
-            <url tvsource="MB">http://218.24.47.44/CCTV1.m3u8</url>
-            <url tvsource="bjhd">http://his.cdn.brtn.cn/approve/live?channel=CCTV1HD&amp;type=ipad</url>
         </tv>
         <tv>
             <name>CCTV-2</name>
             <url tvsource="源4">http://vapptime.cntv.wscdns.com/cache/204_/seg0/index.m3u8</url>
             <url tvsource="源2">rtmp://m3u8.sctv.com:51935/live/CCTV2_M.stream</url>
-            <url tvsource="bj">http://his.cdn.brtn.cn/approve/live?channel=CCTV2&amp;type=ipad</url>
-            <url tvsource="MB">http://218.24.47.44/CCTV2.m3u8</url>
         </tv>
         <tv>
             <name>CCTV-3</name>
             <url tvsource="源2">rtmp://m3u8.sctv.com:51935/live/CCTV3_M.stream</url>
             <url tvsource="box">http://vapptime.cntv.wscdns.com/cache/209_/seg0/index.m3u8</url>
-            <url tvsource="bj">http://his.cdn.brtn.cn/approve/live?channel=CCTV3&amp;type=ipad</url>
         </tv>
         <tv>
             <name>CCTV-4</name>
             <url tvsource="bj">http://vapptime.cntv.wscdns.com/cache/19_/seg0/index.m3u8</url>
             <url tvsource="源6">rtmp://m3u8.sctv.com:51935/live/CCTV4_M.stream</url>
             <url tvsource="ifeng">rtsp://live.3gv.ifeng.com/live/64</url>
-            <url tvsource="MB">http://218.24.47.44/CCTV4.m3u8</url>
-            <url tvsource="源1">http://122.227.245.147:8000/live/flv/channel18</url>
         </tv>
         <tv>
             <name>CCTV-5</name>
-            <url tvsource="sxjy">http://v14.tv.cctv5.cctv.com/approve/live?type=ipad&amp;channel=CCTV5HD</url>
             <url tvsource="bj">http://vapptime.cntv.wscdns.com/cache/214_/seg0/index.m3u8</url>
-            <url tvsource="tjlt">http://zb.v.qq.com:1863/?progid=1641251988</url>
             <url tvsource="源3">rtmp://m3u8.sctv.com:51935/live/CCTV5_M.stream</url>
             <url tvsource="bjdx">rtmp://203.207.99.19:1935/live/CCTV5</url>
             <url tvsource="gq">rtsp://58.200.131.2/cctv-5-hd</url>
@@ -51,7 +40,6 @@
         <tv>
             <name>CCTV-5+</name>
             <url tvsource="HD">http://vapptime.cntv.wscdns.com/cache/259_/seg0/index.m3u8</url>
-            <url tvsource="cctv">http://v14.tv.cctv5.cctv.com/m3u8/ipad-CCTV5TB-live.m3u8</url>
             <url tvsource="CNTV">http://74.82.62.52:1935/liverepeater/27476.stream/playlist.m3u8?aspect=16x9</url>
             <url tvsource="源5">rtsp://officetv.bupt.edu.cn/CCTV-5plus-HD</url>
         </tv>
@@ -71,7 +59,6 @@
         </tv>
         <tv>
             <name>CCTV-8</name>
-            <url tvsource="源1">http://124.70.0.101/ldp/cctv8.isml/QualityLevels(264000)/manifest(format=m3u8-aapl).m3u8</url>
             <url tvsource="源6">rtmp://220.181.117.167/live/cctv8</url>
             <url tvsource="bj">http://vapptime.cntv.wscdns.com/cache/229_/seg0/index.m3u8</url>
             <url tvsource="源2">http://120.192.81.25/live/5/30/f9c6eb270b1a4587a65b043a235cca82.m3u8?type=tv</url>
@@ -83,7 +70,6 @@
         <tv>
             <name>CCTV-10</name>
             <url tvsource="bj">http://vapptime.cntv.wscdns.com/cache/234_/seg0/index.m3u8</url>
-            <url tvsource="秒播">http://218.24.47.44/CCTV10.m3u8</url>
         </tv>
         <tv>
             <name>CCTV-11</name>
@@ -99,21 +85,14 @@
             <name>CCTV-13</name>
             <url tvsource="ifeng">http://live.3gv.ifeng.com/live/CCTV13.m3u8</url>
             <url tvsource="LS">http://vapptime.cntv.wscdns.com/cache/24_/seg0/index.m3u8</url>
-            <url tvsource="源2">http://zb.v.qq.com:1863/?progid=1641251988&amp;ostype=ios</url>
-            <url tvsource="bj">http://his.cdn.brtn.cn/approve/live?channel=CCTV13&amp;type=ipad</url>
             <url tvsource="hs">http://web-play.pptv.com/web-m3u8-300215.m3u8?type=phone.android</url>
-            <url tvsource="源3">http://jyzx8.com/tv/ty/qqflv.php?id=1641251988&amp;ostype=ios</url>
-            <url tvsource="CNTV">http://122.227.245.147:8000/live/flv/channel23</url>
-            <url tvsource="QQ">http://zb.v.qq.com:1863/?progid=1641251988</url>
             <url tvsource="bjsx">rtmp://ptvlivef.people.com.cn/m18/s1/sd</url>
             <url tvsource="ahsx">rtmp://media.anhuinews.com:1935/live/cctv</url>
-            <url tvsource="秒播">http://218.24.47.44/CCTV13.m3u8</url>
         </tv>
         <tv>
             <name>CCTV-14</name>
             <url tvsource="bj">http://vapptime.cntv.wscdns.com/cache/249_/seg0/index.m3u8</url>
             <url tvsource="源2">rtmp://61.188.179.169:1935/SRT_CCTV/CCTV14_N</url>
-            <url tvsource="P2P">http://210.51.36.133:1080/iphone21/z.m3u8</url>
         </tv>
         <tv>
             <name>CCTV-15</name>
@@ -124,29 +103,24 @@
         <tv>
             <name>CCTV-NEWS</name>
             <url tvsource="CNTV">http://vapptime.cntv.wscdns.com/cache/49_/seg0/index.m3u8</url>
-            <url tvsource="源1">http://122.227.245.147:8000/live/flv/channel48</url>
             <url tvsource="bjjy">rtsp://162.105.129.241/cctv-9</url>
         </tv>
         <tv>
             <name>CCTV-第一剧场</name>
-            <url tvsource="源1">http://124.70.0.104/ldp/diyijuchang.isml/QualityLevels(264000)/manifest(format=m3u8-aapl).m3u8</url>
         </tv>
         <tv>
             <name>CCTV-风云音乐</name>
-            <url tvsource="源5">http://124.70.0.104/ldp/fengyunyinyue.isml/QualityLevels(264000)/manifest(format=m3u8-aapl).m3u8</url>
         </tv>
         <tv>
             <name>CCTV-证券资讯</name>
             <url tvsource="m3u8">rtmp://live.cctvcj.com/cctvcj/live1</url>
             <url tvsource="pptv">http://web-play.pptv.com/web-m3u8-300747.m3u8?type=phone.android</url>
-            <url tvsource="sxzg">http://live121.cnlive.com:1935/live/cctvzhengquan/playlist.m3u8</url>
         </tv>
         <tv>
             <name>CCTV-中学生</name>
             <url tvsource="SOHU">http://gslb.tv.sohu.com/live?cid=11&amp;type=hls</url>
             <url tvsource="pptv">http://web-play.pptv.com/web-m3u8-300737.m3u8?type=phone.android</url>
             <url tvsource="源1">http://live.64ma.com:1930/livePlay.asp?sohuId=11&amp;rn=aTZcOxeOxablabmZdmcc</url>
-            <url tvsource="源2">http://ppu.17kds.net/live/5/30/2b4a9ac02fe740b4a593a7b7de4446d6.m3u8?type=tv</url>
         </tv>
         <tv>
             <name>CCTV-高尔夫网球</name>
@@ -182,11 +156,9 @@
             <name>CETV-2</name>
             <url tvsource="PPTV">http://web-play.pptv.com/web-m3u8-300417.m3u8?type=phone.android</url>
             <url tvsource="52TV">http://112.117.210.7:80/live/5/30/b9bec63302f74079867b5b304087ba8b.m3u8?type=m3u8.web.tv</url>
-            <url tvsource="m3u8">http://pplive.shntv.cn/live/5/30/b9bec63302f74079867b5b304087ba8b.m3u8?type=tv</url>
         </tv>
         <tv>
             <name>CETV-3</name>
-            <url tvsource="源1">http://streaming.centv.cn/live/9e7752a97af34d2c8226118e272a28ab?fmt=h264_500k_flv</url>
             <url tvsource="SOHU">http://live.64ma.com:1930/livePlay.asp?sohuId=29&amp;rn=aTZcOxdOxclZfmagmad</url>
         </tv>
         <tv>
@@ -202,14 +174,11 @@
             <url tvsource="ls">http://vapptime.cntv.wscdns.com/cache/184_/seg0/index.m3u8</url>
             <url tvsource="box">http://proxy.myvst.net/live/72733437534537686132626976695151D0DE40.flv</url>
             <url tvsource="源10">http://101.71.82.45:80/live/5/30/9a4abeb8a3c9475099647027b2a32a07.m3u8?pre=ikan&amp;type=phone.ios</url>
-            <url tvsource="源8">http://zb.v.qq.com:1863/?progid=2414742998</url>
             <url tvsource="58">http://web-play.pptv.com/web-m3u8-300166.m3u8?type=phone.android</url>
         </tv>
         <tv>
             <name>东方卫视</name>
             <url tvsource="P2P">http://zb.v.qq.com:1863/?progid=3900155972&amp;ostype=live&amp;ext=.flv</url>
-            <url tvsource="源4">http://zb.v.qq.com:1863/?progid=3661744838&amp;ostype=live&amp;ext=.flv</url>
-            <url tvsource="DFSX">http://live-cdn1.smgbb.tv/channels/bbtv/dfws/flv:sd/live</url>
             <url tvsource="fh">http://live.3gv.ifeng.com/live/DFWS.m3u8</url>
             <url tvsource="box">http://web-play.pptv.com/web-m3u8-300145.m3u8?type=phone.android</url>
             <url tvsource="ls">http://zb.v.qq.com:1863/?progid=3661744838</url>
@@ -220,7 +189,6 @@
             <url tvsource="QQ1">http://zb.v.qq.com:1863/?progid=1975434150&amp;ostype=ios</url>
             <url tvsource="QQ2">http://zb.v.qq.com:1863/?progid=2084914015</url>
             <url tvsource="sohu">http://live.64ma.com/livePlay.asp?sohuId=60</url>
-            <url tvsource="P2P">http://vdn.apps.cntv.cn/api/getLive302.do?channel=pa://cctv_p2p_hdguangdong&amp;type=ipad</url>
             <url tvsource="XJYD">rtmp://120.205.13.194:1935/guangdongtv/live</url>
         </tv>
         <tv>
@@ -233,38 +201,27 @@
         </tv>
         <tv>
             <name>湖南卫视</name>
-            <url tvsource="源6">http://14.204.84.49:60001/live/HNTVHQ/chunklist.m3u8</url>
-            <url tvsource="box">http://220.248.219.151:8080/LIVE3/z.m3u8</url>
-            <url tvsource="mg">http://210.51.36.133:1080/iphone4/z.m3u8</url>
             <url tvsource="hnjs">rtsp://officetv.bupt.edu.cn/HNWS-HD</url>
             <url tvsource="500">http://119.167.230.154/live/5/45/e9301e073cf94732a380b765c8b9573d.m3u8?type=m3u8.web.pad</url>
         </tv>
         <tv>
             <name>江苏卫视</name>
-            <url tvsource="64">http://220.248.219.151:8080/LIVE4/z.m3u8</url>
             <url tvsource="源3">http://web-play.pptv.com/web-m3u8-300163.m3u8?type=phone.android</url>
-            <url tvsource="kksx">http://202.102.79.116:554/livejstv/jsws.stream/playlist.m3u8</url>
-            <url tvsource="源5">http://122.192.35.77:7735/live/jsws.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>山东卫视</name>
-            <url tvsource="QQ">http://zb.v.qq.com:1863/?progid=3660187036&amp;ostype=ios</url>
             <url tvsource="sohu">http://live.gslb.letv.com/gslb?stream_id=shandong&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1007&amp;format=&amp;expect=3</url>
             <url tvsource="源4">http://web-play.pptv.com/web-m3u8-300161.m3u8?type=phone.android</url>
         </tv>
         <tv>
             <name>河北卫视</name>
             <url tvsource="GF">http://live01.hebtv.com/channels/hebtv/video_channel_04/flv:800k/live</url>
-            <url tvsource="cntv">http://vtime.cntv.cloudcdn.net:8000/live/flv/channel129</url>
             <url tvsource="SOHU">http://live.64ma.com/livePlay.asp?sohuId=24</url>
             <url tvsource="源6">http://live01.hebtv.com/channels/hebtv/video_channel_05/flv:800k/live.flv</url>
         </tv>
         <tv>
             <name>东南卫视</name>
-            <url tvsource="qq">http://zb.v.qq.com:1863/?progid=1000637964</url>
-            <url tvsource="SOHU">http://zb.v.qq.com:1863/?progid=1000637964&amp;ostype=ios</url>
             <url tvsource="源4">rtmp://220.181.117.167/live/dongnan</url>
-            <url tvsource="源2">http://video.fjtv.net:8080/mms3.0/videoPlay/findBroadcastUrl.jspa?channelID=17&amp;channelType=0</url>
         </tv>
         <tv>
             <name>河南卫视</name>
@@ -280,8 +237,6 @@
         <tv>
             <name>陕西卫视</name>
             <url tvsource="gf">mmst://android.snbw.cn/sxtvs-8</url>
-            <url tvsource="源7">http://zb.v.qq.com:1863/?progid=2739752321</url>
-            <url tvsource="800k">http://live.ylwltv.com/live/7fdd8d03ccc94d738a173fc720e571a6?fmt=h264_800k_flv</url>
         </tv>
         <tv>
             <name>安徽卫视</name>
@@ -304,8 +259,6 @@
         </tv>
         <tv>
             <name>江西卫视</name>
-            <url tvsource="tj">http://live03.jxntv.cn/hls-jxtv/channel1/_definst_/livestream/livestream.m3u8</url>
-            <url tvsource="源3">http://125.39.29.120:8629/live/jiangxi</url>
             <url tvsource="官方">rtmp://live01.jxntv.cn/channel1/livestream</url>
             <url tvsource="源5">rtsp://tv.jxgdw.com/jswtvzn</url>
         </tv>
@@ -313,7 +266,6 @@
             <name>湖北卫视</name>
             <url tvsource="gf">http://live9.hbtv.com.cn/channels/zbk/hbws/flv:sd/live.flv</url>
             <url tvsource="SOHU">http://live.64ma.com/livePlay.asp?sohuId=22</url>
-            <url tvsource="FYZB">http://121.199.4.50/fengyun/265_1343546293150.m3u8</url>
         </tv>
         <tv>
             <name>广西卫视</name>
@@ -330,11 +282,9 @@
         <tv>
             <name>甘肃卫视</name>
             <url tvsource="源4">http://zb.v.qq.com:1863/?progid=3444760127</url>
-            <url tvsource="源3">http://zb.v.qq.com:1863/?progid=3444760127&amp;ostype=ios</url>
             <url tvsource="ls">http://live.gslb.letv.com/gslb?stream_id=gansu&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1007&amp;format=&amp;expect=3</url>
             <url tvsource="GF">mmsh://live-stream.gntv.tv:8554/DS_WHPD</url>
             <url tvsource="PP">http://web-play.pptv.com/web-m3u8-300148.m3u8?type=phone.android</url>
-            <url tvsource="QQ">http://zb.v.qq.com:1863/?progid=3444760127&amp;ostype=live&amp;ext=.flv</url>
         </tv>
         <tv>
             <name>云南卫视</name>
@@ -344,7 +294,6 @@
         <tv>
             <name>辽宁卫视</name>
             <url tvsource="SOHU">http://zb.v.qq.com:1863/?progid=3006271240&amp;ostype=ios</url>
-            <url tvsource="FYZB">http://121.199.4.50/fengyun/0000000001_1342935872009.m3u8</url>
         </tv>
         <tv>
             <name>吉林卫视</name>
@@ -368,35 +317,29 @@
         <tv>
             <name>贵州卫视</name>
             <url tvsource="SOHU">http://live.gslb.letv.com/gslb?stream_id=guizhou&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1007&amp;format=&amp;expect=3</url>
-            <url tvsource="源2">http://zb.v.qq.com:1863/?progid=3051487004&amp;ostype=ios</url>
             <url tvsource="FYZB">http://web-play.pptv.com/web-m3u8-300174.m3u8?type=phone.android</url>
         </tv>
         <tv>
             <name>四川卫视</name>
             <url tvsource="SOHU">http://zb.v.qq.com:1863/?progid=2453801339</url>
             <url tvsource="源3">http://zb.v.qq.com:1863/?progid=2453801339&amp;ostype=ios</url>
-            <url tvsource="源7">http://live.gslb.letv.com/gslb?stream_id=sichuan&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1007&amp;format=&amp;expect=3</url>
             <url tvsource="源5/6">http://web-play.pptv.com/web-m3u8-300177.m3u8?type=phone.android</url>
         </tv>
         <tv>
             <name>宁夏卫视</name>
-            <url tvsource="SOHU">http://zb.v.qq.com:1863/?progid=3778086045&amp;ostype=ios</url>
             <url tvsource="qq">http://web-play.pptv.com/web-m3u8-300187.m3u8?type=phone.android</url>
             <url tvsource="GF">rtmp://218.95.143.34/live/dslivehd9</url>
         </tv>
         <tv>
             <name>青海卫视</name>
-            <url tvsource="gf">http://221.207.32.61:8088/flv000</url>
             <url tvsource="qq">http://zb.v.qq.com:1863/?progid=877636586&amp;ostype=ios</url>
             <url tvsource="源3">http://zb.v.qq.com:1863/?progid=877636586</url>
-            <url tvsource="tj">http://125.39.29.120:8629/live/qinghai</url>
         </tv>
         <tv>
             <name>天津卫视</name>
             <url tvsource="cntv">http://zb.v.qq.com:1863/?progid=830075195&amp;ostype=ios</url>
             <url tvsource="SOHU">http://live.64ma.com/livePlay.asp?sohuId=15</url>
             <url tvsource="XJYD">rtmp://120.205.13.194:1935/tianjintv/live</url>
-            <url tvsource="JSDX">http://202.102.79.115:554/live/tv20/playlist.m3u8</url>
         </tv>
         <tv>
             <name>西藏卫视</name>
@@ -418,13 +361,10 @@
         </tv>
         <tv>
             <name>三沙卫视</name>
-            <url tvsource="HNDX1">http://tv1.bluehn.com:1935/livestream/7s3pzhqc.flv</url>
             <url tvsource="HNDX">rtmp://tv1.bluehn.com:1935/livestream/7s3pzhqc</url>
-            <url tvsource="HNDX3">http://tv1.bluehn.com/hls/stream/7s3pzhqc.m3u8</url>
         </tv>
         <tv>
             <name>延边卫视</name>
-            <url tvsource="P2P">http://220.181.168.173:2554/160_51995</url>
             <url tvsource="JLLT">rtmp://122.136.32.78:1935/live/c02</url>
             <url tvsource="源2">mmst://202.111.175.222/playlist</url>
         </tv>
@@ -436,7 +376,6 @@
         </tv>
         <tv>
             <name>厦门卫视</name>
-            <url tvsource="XMDX">mms://mediasrv2.iptv.xmg.com.cn/tvhaixia</url>
             <url tvsource="PPTV">http://web-play.pptv.com/web-m3u8-300169.m3u8?type=phone.android</url>
             <url tvsource="PPTV2">http://play.api.pptv.com/web-m3u8-300169.m3u8?type=phone.android</url>
         </tv>
@@ -449,8 +388,6 @@
         </tv>
         <tv>
             <name>康巴卫视</name>
-            <url tvsource="源3">http://223.82.137.204:8088/ts900</url>
-            <url tvsource="P2P">http://220.181.168.173:1554/160_51993</url>
         </tv>
         <tv>
             <name>兵团卫视</name>
@@ -461,7 +398,6 @@
         <tv>
             <name>健康卫视</name>
             <url tvsource="源1">rtmp://tp01.videocc.net/live/jkwshk</url>
-            <url tvsource="源2">http://tp01.videocc.net/live/jkwshk/playlist.m3u8</url>
         </tv>
         <tv>
             <name>凤凰中文</name>
@@ -469,7 +405,6 @@
             <url tvsource="源2">http://live.3gv.ifeng.com/live/zhongwen.m3u8</url>
             <url tvsource="GF">rtsp://live.3gv.ifeng.com/live/1500</url>
             <url tvsource="源5">http://web-play.pptv.com/web-m3u8-300621.m3u8?type=phone.android</url>
-            <url tvsource="源9">http://live.3gv.ifeng.com/live/zhongwen?bitrate=500K</url>
             <url tvsource="源10">rtsp://116.199.127.68/fenghuang</url>
             <url tvsource="源7">rtsp://live.3gv.ifeng.com/live/2256</url>
         </tv>
@@ -478,10 +413,8 @@
             <url tvsource="源1">http://live.3gv.ifeng.com/live/zixun.m3u8</url>
             <url tvsource="源2">http://live.3gv.ifeng.com/live/zixun.m3u8?fmt=x264_0k_mpegts&amp;size=320x240</url>
             <url tvsource="GF">rtsp://live.3gv.ifeng.com/live/1500</url>
-            <url tvsource="源3">http://live.3gv.ifeng.com/live/zixun?bitrate=500K</url>
             <url tvsource="源4">rtsp://112.230.192.196/zb12</url>
             <url tvsource="源10">rtsp://live.3gv.ifeng.com/live/1256</url>
-            <url tvsource="H5">http://114.112.34.44/live/5/45/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=tv</url>
             <url tvsource="ifeng">rtsp://live.3gv.ifeng.com/live/71</url>
             <url tvsource="源17">http://live.3gv.ifeng.com/live/FHZXHD.m3u8</url>
         </tv>
@@ -493,18 +426,15 @@
             <name>香港卫视</name>
             <url tvsource="源4">rtmp://live.hkstv.hk.lxdns.com/live/hks</url>
             <url tvsource="源2">http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8</url>
-            <url tvsource="源6">http://221.120.177.59/hls/i3d7ragr.m3u8</url>
             <url tvsource="源3">rtmp://221.120.177.59/livestream/ucagm8kk</url>
         </tv>
         <tv>
             <name>壹电视</name>
             <url tvsource="1">http://nexttvnews_hls-i.akamaihd.net/hls/live/215819/nexttvnews_hls/StreamWifi.m3u8</url>
-            <url tvsource="2">http://nexttvnews_hls-i.akamaihd.net/hls/live/215819/nexttvnews_hls/StreamEdge.m3u8</url>
         </tv>
         <tv>
             <name>[V]音乐</name>
             <url tvsource="源1">http://main.gslb.ku6.com/broadcast/sub?channel=910</url>
-            <url tvsource="源3">http://183.60.150.137/broadcast/sub?channel=910&amp;id=ku6_live</url>
         </tv>
         <tv>
             <name>资讯卫视</name>
@@ -560,7 +490,6 @@
         </tv>
         <tv>
             <name>北京财经</name>
-            <url tvsource="源1">http://gslb.tv.sohu.com/live?cid=40&amp;type=hls</url>
             <url tvsource="源2">http://vapptime.cntv.wscdns.com/cache/284_/seg0/index.m3u8</url>
             <url tvsource="源3">http://url.52itv.cn/live/6E436C7357745A6842306C477642515141DBA9.m3u8</url>
         </tv>
@@ -572,7 +501,6 @@
         <tv>
             <name>北京生活</name>
             <url tvsource="源1">http://vapptime.cntv.wscdns.com/cache/319_/seg0/index.m3u8</url>
-            <url tvsource="源2">http://182.118.58.73:81/youkulive/207/400/0/140276386940314036560.flv</url>
             <url tvsource="源3">http://url.52itv.cn/live/6E436C7357745A6842306C477669515157C116.m3u8</url>
         </tv>
         <tv>
@@ -610,13 +538,11 @@
         </tv>
         <tv>
             <name>上海新闻</name>
-            <url tvsource="dfkp">http://live-cdn1.smgbb.tv/channels/bbtv/xwzh/flv:sd/live</url>
             <url tvsource="PPTV2">http://web-play.pptv.com/web-m3u8-300156.m3u8?type=phone.android</url>
         </tv>
         <tv>
             <name>上海电视剧</name>
             <url tvsource="PPTV1">http://web-play.pptv.com/web-m3u8-300153.m3u8?type=phone.android</url>
-            <url tvsource="源4">http://112.90.37.84/live/5/30/c29f7f05e3934a629dc164aadb1bb27e.m3u8?chid=300417&amp;pre=ikan&amp;type=phone.android</url>
         </tv>
         <tv>
             <name>上海电影</name>
@@ -624,67 +550,53 @@
         </tv>
         <tv>
             <name>上海生活</name>
-            <url tvsource="DFSX">http://live-cdn1.smgbb.tv/channels/bbtv/xsk/flv:sd/live</url>
             <url tvsource="PPTV2">http://play.api.pptv.com/web-m3u8-300155.m3u8?type=phone.android</url>
         </tv>
         <tv>
             <name>上海娱乐</name>
             <url tvsource="DFSX">http://web-play.pptv.com/web-m3u8-300151.m3u8?type=phone.android</url>
             <url tvsource="源1">http://live.64ma.com/livePlay.asp?sohuId=2</url>
-            <url tvsource="源5">http://live-cdn1.smgbb.tv/channels/bbtv/ics/flv:sd/live</url>
         </tv>
         <tv>
             <name>上海艺术</name>
-            <url tvsource="DFSX">http://live-cdn1.smgbb.tv/channels/bbtv/ysrw/flv:sd/live</url>
             <url tvsource="PPTV1">http://web-play.pptv.com/web-m3u8-300454.m3u8?type=phone.android</url>
         </tv>
         <tv>
             <name>第一财经</name>
-            <url tvsource="源1">http://live-cdn1.smgbb.tv/channels/bbtv/dycj/flv:sd/live</url>
             <url tvsource="PPTV2">http://web-play.pptv.com/web-m3u8-300446.m3u8?type=phone.android</url>
         </tv>
         <tv>
             <name>上海星尚</name>
-            <url tvsource="DFSX">http://live-cdn1.smgbb.tv/channels/bbtv/shss/flv:sd/live</url>
         </tv>
         <tv>
             <name>上海纪实</name>
-            <url tvsource="DFSX">http://live-cdn1.smgbb.tv/channels/bbtv/jspd/flv:sd/live</url>
         </tv>
         <tv>
             <name>上海外语</name>
             <url tvsource="PPTV2">http://play.api.pptv.com/web-m3u8-300214.m3u8?type=phone.android</url>
-            <url tvsource="DFSX">http://live-cdn1.smgbb.tv/channels/bbtv/ics/flv:sd/live</url>
         </tv>
         <tv>
             <name>上海购物</name>
-            <url tvsource="DFSX">http://live-cdn1.smgbb.tv/channels/bbtv/xjpd/flv:sd/live</url>
         </tv>
         <tv>
             <name>看看新闻</name>
-            <url tvsource="DFSX">http://live-cdn1.smgbb.tv/channels/bbtv/kkxww/flv:sd/live</url>
             <url tvsource="源3">rtmp://live.kksmg.com:80/live/mp4:Stream_1</url>
             <url tvsource="源4">http://hls.kksmg.com/iphone/downloads/ch1/index.m3u8</url>
         </tv>
         <tv>
             <name>上海卡通</name>
             <url tvsource="LS1">http://web-play.pptv.com/web-m3u8-300455.m3u8?type=phone.android</url>
-            <url tvsource="LS2">http://live.gslb.letv.com/gslb?stream_id=xdkt&amp;tag=live&amp;ext=m3u8</url>
         </tv>
         <tv>
             <name>五星体育</name>
-            <url tvsource="DFSX">http://live-cdn1.smgbb.tv/channels/bbtv/ssty/flv:sd/live</url>
             <url tvsource="源2">rtmp://220.181.117.167/live/shanghaitiyu_800</url>
         </tv>
         <tv>
             <name>浦东电视台</name>
-            <url tvsource="GF">http://zb.pudongtv.cn/hls-live/livepkgr/_definst_/wslhevent/hls_pindao_1_350.m3u8</url>
-            <url tvsource="源3">http://zb.pudongtv.cn/hls-live/livepkgr/_definst_/wslhevent/hls_pindao_1_500.m3u8</url>
             <url tvsource="SHDX">rtmp://zb.pudongtv.cn:80/DVRLive/mp4:pindao_1_500_2013_8_2_0_0_0.f4v</url>
         </tv>
         <tv>
             <name>陕西秦腔</name>
-            <url tvsource="源1">http://m3u8-2.live.snrtv.com/sxbc/qinqiang/index.m3u8</url>
         </tv>
         <tv>
             <name>陕西农林</name>
@@ -729,40 +641,33 @@
         <tv>
             <name>西安新闻</name>
             <url tvsource="pptv">http://web-play.pptv.com/web-m3u8-300625.m3u8?type=phone.android</url>
-            <url tvsource="源5">http://113.140.13.197/live/2011/03/03/DE9CFF32-E76C-11E0-BC3F-A10582DB7B64?fmt=x264_500k_flv</url>
             <url tvsource="XADX">rtmp://113.140.13.200:1935/liveedge1/livename_1</url>
         </tv>
         <tv>
             <name>西安白鸽</name>
             <url tvsource="pptv">http://web-play.pptv.com/web-m3u8-300626.m3u8?type=phone.android</url>
             <url tvsource="XADX">rtmp://113.140.13.200:1935/liveedge2/livename_1</url>
-            <url tvsource="官方">http://113.140.13.197/live/2011/03/03/0B153AA2-657E-11E0-9BC4-8191976A168D?fmt=x264_500k_flv</url>
         </tv>
         <tv>
             <name>西安商务</name>
             <url tvsource="pptv">http://web-play.pptv.com/web-m3u8-300627.m3u8?type=phone.android</url>
             <url tvsource="XADX">rtmp://113.140.13.200:1935/liveedge3/livename_1</url>
-            <url tvsource="源1">http://113.140.13.197/live/2011/03/03/9971EE63-657E-11E0-9BC4-8191976A168D?fmt=x264_500k_flv</url>
         </tv>
         <tv>
             <name>西安影视</name>
             <url tvsource="XADX">rtmp://113.140.13.200:1935/liveedge4/livename_1</url>
-            <url tvsource="源1">http://113.140.13.197/live/2011/03/03/678744E4-6597-11E0-9BC4-8191976A168D?fmt=x264_500k_flv</url>
         </tv>
         <tv>
             <name>西安健康</name>
             <url tvsource="pptv">http://web-play.pptv.com/web-m3u8-300629.m3u8?type=phone.android</url>
             <url tvsource="XADX">rtmp://113.140.13.200:1935/liveedge5/livename_1</url>
-            <url tvsource="源1">http://113.140.13.197/live/2011/03/03/B24443C5-6597-11E0-9BC4-8191976A168D?fmt=x264_500k_flv</url>
         </tv>
         <tv>
             <name>西安音乐</name>
             <url tvsource="XADX">rtmp://113.140.13.200:1935/liveedge6/livename_1</url>
-            <url tvsource="源1">http://113.140.13.197/live/2011/03/03/E3922EB6-6597-11E0-9BC4-8191976A168D?fmt=x264_500k_flv</url>
         </tv>
         <tv>
             <name>榆林</name>
-            <url tvsource="源1">http://live.ylwltv.com/live/7fdd8d03ccc94d738a173fc720e571a6?fmt=h264_800k_flv</url>
         </tv>
         <tv>
             <name>宁夏公共</name>
@@ -790,30 +695,21 @@
         </tv>
         <tv>
             <name>石嘴山综合</name>
-            <url tvsource="源1">http://221.199.43.227:8088/flv0</url>
-            <url tvsource="源2">http://221.199.43.227:8088/flv400</url>
         </tv>
         <tv>
             <name>石嘴山公共</name>
-            <url tvsource="源1">http://221.199.43.227:8088/flv100</url>
-            <url tvsource="源2">http://221.199.43.227:8088/flv500</url>
         </tv>
         <tv>
             <name>石嘴山惠农</name>
-            <url tvsource="源1">http://221.199.43.227:8088/flv200</url>
-            <url tvsource="源2">http://221.199.43.227:8088/flv600</url>
         </tv>
         <tv>
             <name>青海都市</name>
-            <url tvsource="源1">http://221.207.32.60:8088/flv000</url>
         </tv>
         <tv>
             <name>青海生活</name>
-            <url tvsource="源1">http://221.207.32.60:8088/flv100</url>
         </tv>
         <tv>
             <name>青海藏语</name>
-            <url tvsource="源1">http://221.207.32.61:8088/flv100</url>
         </tv>
         <tv>
             <name>西宁新闻综合</name>
@@ -835,49 +731,31 @@
             <name>江苏靓妆</name>
             <url tvsource="源1">http://pczhibo.imgo.tv/121s11fm</url>
             <url tvsource="源2">http://hlstest.imgo.tv/hvb5/index_512k.m3u8</url>
-            <url tvsource="源3">http://202.102.79.116:554/livejstv/lzpd.stream/playlist.m3u8</url>
-            <url tvsource="源4">http://122.192.35.77:7735/live/lzpd2.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>江苏影视</name>
-            <url tvsource="源1">http://202.102.79.116:554/livejstv/jsys.stream/playlist.m3u8</url>
-            <url tvsource="源2">http://122.192.35.77:7735/live/jsys.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>江苏教育</name>
-            <url tvsource="源1">http://202.102.79.116:554/livejstv/jsjy.stream/playlist.m3u8</url>
-            <url tvsource="源2">http://122.192.35.77:7735/live/jsjy2.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>江苏公共</name>
-            <url tvsource="源1">http://202.102.79.116:554/livejstv/jsgg.stream/playlist.m3u8</url>
-            <url tvsource="源2">http://122.192.35.77:7735/live/jsgg2.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>江苏城市</name>
-            <url tvsource="源1">http://202.102.79.116:554/livejstv/jscs.stream/playlist.m3u8</url>
-            <url tvsource="源2">http://122.192.35.77:7735/live/jscs.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>江苏综艺</name>
-            <url tvsource="源1">http://202.102.79.116:554/livejstv/jszy.stream/playlist.m3u8</url>
-            <url tvsource="源2">http://122.192.35.77:7735/live/jszy.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>江苏休闲</name>
-            <url tvsource="源1">http://202.102.79.116:554/livejstv/jsxx.stream/playlist.m3u8</url>
-            <url tvsource="源2">http://122.192.35.77:7735/live/jsxx.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>江苏国际</name>
             <url tvsource="源1">rtmp://fms.jstv.com/live/inte/zhibo</url>
-            <url tvsource="源2">http://202.102.79.114:551/cjsj/jsgj.stream/playlist.m3u8</url>
-            <url tvsource="源3">http://122.192.35.77:7735/live/jsgj.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>优漫卡通</name>
-            <url tvsource="源1">http://202.102.79.116:554/livejstv/ymkt.stream/playlist.m3u8</url>
-            <url tvsource="源2">http://122.192.35.77:7735/live/ymkt.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>财富天下</name>
@@ -886,7 +764,6 @@
         <tv>
             <name>好享购物</name>
             <url tvsource="源1">rtmp://fms.jstv.com/live/hao24/zhibo</url>
-            <url tvsource="源2">http://122.192.35.77:7735/live/hxgw2.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>南京新闻</name>
@@ -898,25 +775,21 @@
         <tv>
             <name>南京教科</name>
             <url tvsource="官方">http://live.xwei.tv/channels/njtv/video_kj/flv:500k/live</url>
-            <url tvsource="源3">http://live.xwei.tv/channels/njtv/video_kj/flv:500k/live.flv</url>
             <url tvsource="SOHU">http://live.64ma.com/livePlay.asp?sohuId=76</url>
         </tv>
         <tv>
             <name>南京娱乐</name>
             <url tvsource="SOHU">http://live.64ma.com/livePlay.asp?sohuId=74</url>
             <url tvsource="官方">http://live.xwei.tv/channels/njtv/video_yl/flv:500k/live</url>
-            <url tvsource="源3">http://live.xwei.tv/channels/njtv/video_yl/flv:500k/live.flv</url>
         </tv>
         <tv>
             <name>南京十八</name>
             <url tvsource="官方">http://live.xwei.tv/channels/njtv/video_18/flv:500k/live</url>
-            <url tvsource="源2">http://live.xwei.tv/channels/njtv/video_18/flv:500k/live.flv</url>
         </tv>
         <tv>
             <name>南京生活</name>
             <url tvsource="SOHU">http://live.64ma.com/livePlay.asp?sohuId=73</url>
             <url tvsource="官方">http://live.xwei.tv/channels/njtv/video_shh/flv:500k/live</url>
-            <url tvsource="源3">http://live.xwei.tv/channels/njtv/video_shh/flv:500k/live.flv</url>
         </tv>
         <tv>
             <name>南京少儿</name>
@@ -925,7 +798,6 @@
         </tv>
         <tv>
             <name>无锡新闻</name>
-            <url tvsource="SOHU">http://202.102.79.115:554/live/jswxtv1/playlist.m3u8</url>
             <url tvsource="wxdx">http://tvie.thmz.64ma.com/channels/iptv/wxtv1/flv:sd/live</url>
             <url tvsource="源4">http://live.64ma.com/livePlay.asp?sohuId=78</url>
         </tv>
@@ -944,15 +816,12 @@
         </tv>
         <tv>
             <name>盐城生活</name>
-            <url tvsource="官方">http://live.0515yc.tv/channels/yctv/yc2/flv:sd/live</url>
         </tv>
         <tv>
             <name>盐城公共</name>
-            <url tvsource="源1">http://live.0515yc.tv/channels/yctv/yc3/flv:sd/live</url>
         </tv>
         <tv>
             <name>苏州新闻</name>
-            <url tvsource="源1">http://202.102.79.115:554/live/jssztv1/playlist.m3u8</url>
         </tv>
         <tv>
             <name>扬州新闻</name>
@@ -972,7 +841,6 @@
         </tv>
         <tv>
             <name>常州综合</name>
-            <url tvsource="源1">http://202.102.79.115:554/live/tv61/playlist.m3u8</url>
             <url tvsource="源3">http://live1.cztv.tv/cztvxw/sd/live.m3u8</url>
         </tv>
         <tv>
@@ -989,7 +857,6 @@
         </tv>
         <tv>
             <name>昆山新闻</name>
-            <url tvsource="m3u8">http://stream.ksntv.com.cn/live/pc1?fmt=H264_450K_FLV</url>
         </tv>
         <tv>
             <name>镇江新闻</name>
@@ -1057,7 +924,6 @@
             <url tvsource="源1">http://pczhibo.imgo.tv/109s31fm</url>
             <url tvsource="源3">rtmp://220.169.44.38/live/cstv1_800k</url>
             <url tvsource="GF">rtsp://222.240.202.154/xinwenlive</url>
-            <url tvsource="源4">http://220.169.44.38:1935/live/cstv1_500k/playlist.m3u8</url>
             <url tvsource="源2">rtmp://220.169.44.38/live/cstv1_500k</url>
             <url tvsource="源7">rtmp://58.20.47.58/live/cstv1_800k</url>
             <url tvsource="源5">rtmp://220.169.44.38/live/cstv1_300k</url>
@@ -1065,12 +931,10 @@
         <tv>
             <name>长沙政法</name>
             <url tvsource="源1">http://118.123.212.37:80/live/5/45/f59a25da36484a668185c5a70f319649.m3u8?type=52itv&amp;k=0bdf48a1ffeacb3ed52be9b80c8281f6</url>
-            <url tvsource="源2">http://112.117.210.6:80/live/5/45/f59a25da36484a668185c5a70f319649.m3u8?type=52itv&amp;k=e4bc334c52214dc90775b10ae6d165f5</url>
             <url tvsource="源4">rtmp://220.169.44.38/live/cstv2_300k</url>
             <url tvsource="源5">http://112.117.210.5:80/live/5/45/f59a25da36484a668185c5a70f319649.m3u8?type=52itv&amp;k=4bfd187469216d1ca37cf197c6ed4399</url>
             <url tvsource="源6">rtmp://220.169.44.38/live/cstv2_800k</url>
             <url tvsource="源7">rtmp://220.169.44.38/live/cstv2_500k</url>
-            <url tvsource="源8">http://220.169.44.38:1935/live/cstv2_500k/playlist.m3u8</url>
             <url tvsource="源9">rtmp://58.20.47.58/live/cstv2_800k</url>
             <url tvsource="源10">http://pczhibo.imgo.tv/111s12fm</url>
         </tv>
@@ -1078,14 +942,11 @@
             <name>长沙女性</name>
             <url tvsource="源1">rtmp://220.169.44.38/live/cstv3_500k</url>
             <url tvsource="源2">rtmp://220.169.44.38/live/cstv3_800k</url>
-            <url tvsource="源3">http://220.169.44.38:1935/live/cstv3_500k/playlist.m3u8</url>
             <url tvsource="源4">rtmp://220.169.44.38/live/cstv3_300k</url>
             <url tvsource="源5">rtmp://58.20.47.58/live/cstv3_800k</url>
-            <url tvsource="源7">http://pczhibo.imgo.tv/115s31fm</url>
         </tv>
         <tv>
             <name>长沙公共</name>
-            <url tvsource="源1">http://220.169.44.38:1935/live/cstv4_500k/playlist.m3u8</url>
             <url tvsource="源2">rtmp://220.169.44.38/live/cstv5_800k</url>
             <url tvsource="源3">rtmp://220.169.44.38/live/cstv5_500k</url>
             <url tvsource="源4">rtmp://220.169.44.38/live/cstv5_300k</url>
@@ -1093,14 +954,12 @@
         </tv>
         <tv>
             <name>长沙购物</name>
-            <url tvsource="源1">http://220.169.44.38:1935/live/cstv6_500k/playlist.m3u8</url>
             <url tvsource="源2">rtmp://220.169.44.38/live/cstv6_500k</url>
             <url tvsource="源3">rtmp://220.169.44.38/live/cstv6_300k</url>
             <url tvsource="源4">rtmp://220.169.44.38/live/cstv6_800k</url>
         </tv>
         <tv>
             <name>长沙经贸</name>
-            <url tvsource="源1">http://220.169.44.38:1935/live/cstv5_500k/playlist.m3u8</url>
             <url tvsource="源2">rtmp://220.169.44.38/live/cstv4_800k</url>
             <url tvsource="源3">rtmp://220.169.44.38/live/cstv4_500k</url>
             <url tvsource="源4">rtmp://220.169.44.38/live/cstv4_300k</url>
@@ -1108,11 +967,9 @@
         </tv>
         <tv>
             <name>株洲新闻</name>
-            <url tvsource="源3">http://media.zzbtv.com/live2012/zz_xw/xw_mc43_video.m3u8</url>
         </tv>
         <tv>
             <name>株洲民生</name>
-            <url tvsource="源1">http://media.zzbtv.com/live2012/zz_gg/gg_mc43_video.m3u8</url>
         </tv>
         <tv>
             <name>株洲法治</name>
@@ -1159,7 +1016,6 @@
             <url tvsource="源2">http://v1.cztv.com/channels/105/500.flv</url>
             <url tvsource="源4">http://v5.cztv.com/channels/105/500.flv</url>
             <url tvsource="源5">http://v4.cztv.com/channels/105/500.flv/live</url>
-            <url tvsource="FYZB">http://121.199.4.50/fengyun/5_1356062909242.m3u8</url>
         </tv>
         <tv>
             <name>留学世界</name>
@@ -1180,30 +1036,21 @@
         </tv>
         <tv>
             <name>杭州综合</name>
-            <url tvsource="GF">http://live2.hoolo.tv/channels/hoolo/htv1/flv:sd/live</url>
-            <url tvsource="GF2">http://live2.hoolo.tv/channels/hoolo/htv1/flv:sd</url>
-            <url tvsource="葫芦直播">http://live2.hoolo.tv/channels/hoolo/hoolo/flv:sd</url>
         </tv>
         <tv>
             <name>杭州明珠</name>
-            <url tvsource="GF">http://live2.hoolo.tv/channels/hoolo/htv2/flv:sd/live</url>
-            <url tvsource="GF2">http://live2.hoolo.tv/channels/hoolo/htv2/flv:sd</url>
         </tv>
         <tv>
             <name>杭州生活</name>
-            <url tvsource="GF">http://live2.hoolo.tv/channels/hoolo/htv3/flv:500k_stream</url>
         </tv>
         <tv>
             <name>杭州影视</name>
-            <url tvsource="GF">http://live2.hoolo.tv/channels/hoolo/htv4/flv:500k_stream</url>
         </tv>
         <tv>
             <name>杭州少儿</name>
-            <url tvsource="GF">http://live2.hoolo.tv/channels/hoolo/htv5/flv:sd</url>
         </tv>
         <tv>
             <name>杭州导视</name>
-            <url tvsource="GF">http://live2.hoolo.tv/channels/hoolo/954/flv:sd</url>
         </tv>
         <tv>
             <name>杭州移动</name>
@@ -1211,24 +1058,18 @@
         </tv>
         <tv>
             <name>宁波生活</name>
-            <url tvsource="源1">http://ming-live.nbtv.cn/channels/nbtv/nbtv2/flv:sd/live</url>
         </tv>
         <tv>
             <name>宁波娱乐</name>
-            <url tvsource="源1">http://ming-live.nbtv.cn/channels/nbtv/nbtv3/flv:sd/live</url>
         </tv>
         <tv>
             <name>宁波影视</name>
-            <url tvsource="源1">http://ming-live.nbtv.cn/channels/nbtv/nbtv4/flv:sd/live</url>
         </tv>
         <tv>
             <name>宁波少儿</name>
-            <url tvsource="源1">http://ming-live.nbtv.cn/channels/nbtv/nbtv5/flv:sd/live</url>
-            <url tvsource="源3">http://live2.hoolo.tv/channels/hoolo/htv5/m3u8:sd/live</url>
         </tv>
         <tv>
             <name>北仑电视</name>
-            <url tvsource="源1">http://live.nbbltv.com:1935/nbbltv/sd.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>温州新闻</name>
@@ -1336,11 +1177,9 @@
         </tv>
         <tv>
             <name>广西公共</name>
-            <url tvsource="源1">http://222.216.111.89:5001/nn_live.flv?id=1000</url>
         </tv>
         <tv>
             <name>广西国际</name>
-            <url tvsource="源1">http://222.216.111.89:5001/nn_live.flv?id=1003</url>
         </tv>
         <tv>
             <name>广西乐思购</name>
@@ -1356,11 +1195,9 @@
         </tv>
         <tv>
             <name>云浮新闻</name>
-            <url tvsource="源1">http://58.248.254.11:9135/live/yfws-i.sdp/playlist.m3u8</url>
         </tv>
         <tv>
             <name>河北卫视HD</name>
-            <url tvsource="源1">http://live01.hebtv.com/channels/hebtv/video_channel_04/flv:2000k/live?1234567890</url>
             <url tvsource="源2">http://live01.hebtv.com/channels/hebtv/video_channel_04/flv:1200k/live?1234567890</url>
             <url tvsource="源4">http://live01.hebtv.com/channels/hebtv/video_channel_05/flv:800k/live?1234567890</url>
             <url tvsource="pptv">http://web-play.pptv.com/web-m3u8-300143.m3u8?type=phone.android</url>
@@ -1374,7 +1211,6 @@
         <tv>
             <name>河北经济</name>
             <url tvsource="源1">http://web-play.pptv.com/web-m3u8-300728.m3u8?type=phone.android</url>
-            <url tvsource="源2">http://119.167.230.154/live/5/45/8fed5c8eab35461daf79ec3c792785b6.m3u8?type=m3u8.web.pad</url>
         </tv>
         <tv>
             <name>河北影视</name>
@@ -1384,7 +1220,6 @@
         <tv>
             <name>河北少儿</name>
             <url tvsource="源1">http://web-play.pptv.com/web-m3u8-300724.m3u8?type=phone.android</url>
-            <url tvsource="源2">http://119.167.230.154/live/5/45/368c5f844b994e1990b3f3756b34a897.m3u8?type=m3u8.web.pad</url>
         </tv>
         <tv>
             <name>河北公共</name>
@@ -1410,12 +1245,9 @@
         </tv>
         <tv>
             <name>石家庄娱乐</name>
-            <url tvsource="官方">http://live.sjzntv.cn/channels/sjzntv/video_channel_02/flv:500k/live</url>
         </tv>
         <tv>
             <name>雪梨TV</name>
-            <url tvsource="官方">http://live.2300sjz.com/channels/sjztv/vChannel1/flv:vChannel1/live</url>
-            <url tvsource="源3">http://121.28.81.59/channels/sjztv/vChannel1/flv:vChannel1/live</url>
         </tv>
         <tv>
             <name>张家港新闻综合</name>
@@ -1581,7 +1413,6 @@
         <tv>
             <name>东营电视</name>
             <url tvsource="GF1">http://live.hhek.cn/live2/live2.m3u8</url>
-            <url tvsource="GF2">http://live.hhek.cn/live2/live1.m3u8</url>
             <url tvsource="GF">rtmp://live.hhek.cn:1935/live/live1</url>
             <url tvsource="源5">rtmp://live.hhek.cn:1935/live/live2</url>
             <url tvsource="源6">rtmp://live.hhek.cn:1935/live/live3</url>
@@ -1590,59 +1421,46 @@
             <name>广东公共</name>
             <url tvsource="源3">http://zb.v.qq.com:1863/?progid=4035478592</url>
             <url tvsource="113">rtsp://113.108.220.52:1935/live/gdgg.stream</url>
-            <url tvsource="源2">http://master.anewtv.com/real/4.m3u8</url>
-            <url tvsource="m3u8">http://58.248.254.11:80/tvlive/gdgg-h.stream/playlist.m3u8?</url>
-            <url tvsource="源6">http://pplive.shntv.cn/live/5/45/251d45879d00488fa0826582fa397216.m3u8?type=tv</url>
         </tv>
         <tv>
             <name>广东新闻</name>
             <url tvsource="PPTV">http://web-play.pptv.com/web-m3u8-300456.m3u8?type=phone.android</url>
-            <url tvsource="源4">http://pplive.shntv.cn/live/5/45/8a4131d106f34fc3a632f5e804a5e944.m3u8?type=tv</url>
             <url tvsource="源2">http://master.anewtv.com/real/5.m3u8</url>
         </tv>
         <tv>
             <name>欧洲足球</name>
             <url tvsource="gdtv">http://httplive.gdtv.cn:1935/live/soccer/playlist.m3u8</url>
-            <url tvsource="cctv">http://wephd.live.cctv1949.com/bd_dli-17661.m3u8</url>
             <url tvsource="huashu">rtmp://rtmpexo.wasu.cn/live/ozzq</url>
         </tv>
         <tv>
             <name>广东珠江</name>
             <url tvsource="源3">http://58.248.254.9:1935/tvlive/gdzj-h.stream/playlist.m3u8?</url>
-            <url tvsource="源4">http://pplive.shntv.cn/live/5/45/035c7371dcd44f4da64979badb6ef559.m3u8?type=tv</url>
             <url tvsource="1">http://master.anewtv.com/real/3.m3u8</url>
         </tv>
         <tv>
             <name>广东会展</name>
-            <url tvsource="m3u8">http://pplive.shntv.cn/live/5/45/0da7a16dd81f45408097961eda8c0842.m3u8?type=tv</url>
         </tv>
         <tv>
             <name>广东移动</name>
-            <url tvsource="m3u8">http://pplive.shntv.cn/live/5/45/d8ade53d048c4e379acede6182717801.m3u8?type=tv</url>
         </tv>
         <tv>
             <name>广州综合</name>
             <url tvsource="PPTV">http://web-play.pptv.com/web-m3u8-300410.m3u8?type=phone.android</url>
-            <url tvsource="m3u8">http://114.112.34.44/live/5/45/a0bfbd7595f84927abc2613175c651bb.m3u8?type=tv</url>
         </tv>
         <tv>
             <name>广州新闻</name>
-            <url tvsource="m3u8">http://114.112.34.44/live/5/45/c180cc2302e6499eb7886c9ef5002434.m3u8?type=tv</url>
         </tv>
         <tv>
             <name>广州影视</name>
             <url tvsource="PPTV">http://web-play.pptv.com/web-m3u8-300451.m3u8?type=phone.android</url>
-            <url tvsource="m3u8">http://114.112.34.44/live/5/45/3daf83ef89e242d3b6bac48083b4f44f.m3u8?type=tv</url>
         </tv>
         <tv>
             <name>广州经济</name>
             <url tvsource="PPTV">http://web-play.pptv.com/web-m3u8-300409.m3u8?type=phone.android</url>
-            <url tvsource="m3u8">http://114.112.34.44/live/5/45/f4d0581f87354f0db45c82dcc05edb26.m3u8?type=tv</url>
         </tv>
         <tv>
             <name>广州少儿</name>
             <url tvsource="PPTV">http://web-play.pptv.com/web-m3u8-300408.m3u8?type=phone.android</url>
-            <url tvsource="m3u8">http://114.112.34.44/live/5/45/4d700c6a68d14431a6c3555c9d710008.m3u8?type=tv</url>
         </tv>
         <tv>
             <name>嘉佳卡通</name>
@@ -1724,7 +1542,6 @@
         </tv>
         <tv>
             <name>台山新闻综合</name>
-            <url tvsource="源1">http://220.249.195.38/live/live.stream/playlist.m3u8</url>
             <url tvsource="源2">rtmp://58.248.254.11:9135/live/live.stream</url>
         </tv>
         <tv>
@@ -1747,52 +1564,34 @@
         </tv>
         <tv>
             <name>黑龙江文艺</name>
-            <url tvsource="官方500">http://125.211.216.199/channels/hljtv/wypd/flv:sd/live</url>
             <url tvsource="源6">http://125.211.216.198/channels/hljtv/wypd/flv:sd/live?1348477116718</url>
             <url tvsource="源1">http://live2.hljtv.com/channels/hljtv/wypd/flv:hd/live</url>
-            <url tvsource="源4">http://live2.hljtv.com/channels/hljtv/wypd/flv:hd</url>
         </tv>
         <tv>
             <name>黑龙江都市</name>
             <url tvsource="官方500">http://125.211.216.199/channels/hljtv/dspd/flv:sd/live</url>
-            <url tvsource="源1">http://live2.hljtv.com/channels/hljtv/dspd/flv:hd/live</url>
-            <url tvsource="源5">http://live2.hljtv.com/channels/hljtv/dspd/flv:hd</url>
         </tv>
         <tv>
             <name>黑龙江新闻</name>
-            <url tvsource="官方500">http://125.211.216.199/channels/hljtv/fzpd/flv:sd/live</url>
             <url tvsource="源1">http://live2.hljtv.com/channels/hljtv/fzpd/flv:hd/live</url>
-            <url tvsource="源3">http://125.211.216.198/channels/hljtv/fzpd/flv:sd/live?1348477336133</url>
         </tv>
         <tv>
             <name>黑龙江公共</name>
-            <url tvsource="官方500">http://125.211.216.199/channels/hljtv/ggpd/flv:sd/live</url>
-            <url tvsource="源1">http://live2.hljtv.com/channels/hljtv/ggpd/flv:hd/live</url>
-            <url tvsource="源4">http://live2.hljtv.com/channels/hljtv/ggpd/flv:hd</url>
             <url tvsource="源6">http://125.211.216.198/channels/hljtv/ggpd/flv:sd/live?1348477336133</url>
         </tv>
         <tv>
             <name>黑龙江第七</name>
-            <url tvsource="源1">http://125.211.216.198/channels/hljtv/dqpd/flv:sd/live</url>
-            <url tvsource="源3">http://125.211.216.198/channels/hljtv/dqpd/flv:sd/live?1348477449985</url>
         </tv>
         <tv>
             <name>黑龙江考试</name>
-            <url tvsource="官方500">http://125.211.216.199/channels/hljtv/kspd/flv:sd/live</url>
-            <url tvsource="源1">http://live2.hljtv.com/channels/hljtv/kspd/flv:hd/live</url>
-            <url tvsource="源4">http://live2.hljtv.com/channels/hljtv/kspd/flv:hd</url>
-            <url tvsource="源6">http://125.211.216.198/channels/hljtv/kspd/flv:sd/live?1348477619091</url>
         </tv>
         <tv>
             <name>黑龙江少儿</name>
-            <url tvsource="官方">http://live2.hljtv.com/channels/hljtv/dqpd/flv:hd/live</url>
             <url tvsource="源2">http://live2.hljtv.com/channels/hljtv/dqpd/flv:hd</url>
         </tv>
         <tv>
             <name>黑龙江导视</name>
             <url tvsource="官方">http://125.211.216.198/channels/hljtv/daoshi/flv:sd/live</url>
-            <url tvsource="源3">http://live2.hljtv.com/channels/hljtv/daoshi/flv:hd</url>
-            <url tvsource="源5">http://125.211.216.198/channels/hljtv/daoshi/flv:sd/live?1348477654763</url>
         </tv>
         <tv>
             <name>大庆百湖</name>
@@ -1821,25 +1620,21 @@
         </tv>
         <tv>
             <name>沈阳新闻</name>
-            <url tvsource="源1">http://streamer.csytv.com/live/1?fmt=H264_800K_FLV</url>
             <url tvsource="源2">rtsp://218.25.54.119/sytv1</url>
             <url tvsource="源3">rtsp://218.25.54.119/sytv3</url>
         </tv>
         <tv>
             <name>辽宁经济</name>
-            <url tvsource="源1">http://streamer.csytv.com/live/2?fmt=H264_800K_FLV</url>
             <url tvsource="源2">rtsp://218.25.54.119/sytv2</url>
         </tv>
         <tv>
             <name>辽宁公共</name>
-            <url tvsource="源1">http://streamer.csytv.com/live/3?fmt=H264_800K_FLV</url>
             <url tvsource="源2">rtsp://218.25.54.119/sytv4</url>
         </tv>
         <tv>
             <name>辽宁体育</name>
             <url tvsource="源1">rtmp://218.25.208.196:1935/live/lnty</url>
             <url tvsource="源2">rtmpt://lntv.kx711.com:1935/live/lnty</url>
-            <url tvsource="asu">http://asu-cv.lntv.streamocean.net/live/LNTY?fmt=x264_450k_flv&amp;cpid=LNTV</url>
         </tv>
         <tv>
             <name>辽宁北方</name>
@@ -1847,28 +1642,20 @@
         </tv>
         <tv>
             <name>辽宁影视</name>
-            <url tvsource="源1">http://222.33.67.38:1935/dvr/30054.stream/media_b762388_w174431407.abst/Seg1-Frag4062</url>
-            <url tvsource="源3">http://218.25.249.106:8084/NASLABEL/51370/iphonelive/121/index.m3u8</url>
         </tv>
         <tv>
             <name>吉林戏曲</name>
-            <url tvsource="源1">http://jltv1.shntv.cn:1935/dvrlive/dbxq/playlist.m3u8</url>
-            <url tvsource="源3">http://video.jlntv.cn/dbxq/index.m3u8</url>
         </tv>
         <tv>
             <name>吉林都市</name>
-            <url tvsource="源1">http://jltv1.shntv.cn:1935/dvrlive/dspd/playlist.m3u8</url>
             <url tvsource="源2">http://video.jlntv.cn/dspd/index.m3u8</url>
             <url tvsource="源3">http://video1.jlntv.cn/dspd/index.m3u8</url>
         </tv>
         <tv>
             <name>吉林公共</name>
-            <url tvsource="源1">http://jltv1.shntv.cn:1935/dvrlive/ggpd/playlist.m3u8</url>
-            <url tvsource="源3">http://video.jlntv.cn/ggpd/index.m3u8</url>
         </tv>
         <tv>
             <name>吉林篮球</name>
-            <url tvsource="源1">http://jltv1.shntv.cn:1935/dvrlive/lqpd/playlist.m3u8</url>
             <url tvsource="源3">http://video.jlntv.cn/lqpd/index.m3u8</url>
         </tv>
         <tv>
@@ -1878,7 +1665,6 @@
         </tv>
         <tv>
             <name>吉林乡村</name>
-            <url tvsource="源1">http://jltv1.shntv.cn:1935/dvrlive/xcpd/playlist.m3u8</url>
             <url tvsource="源3">http://video.jlntv.cn/xcpd/index.m3u8</url>
         </tv>
         <tv>
@@ -2026,7 +1812,6 @@
         </tv>
         <tv>
             <name>泉州新闻</name>
-            <url tvsource="58">http://58.22.116.208/quanzhoutv/z.m3u8</url>
         </tv>
         <tv>
             <name>河南电视剧</name>
@@ -2054,7 +1839,6 @@
         </tv>
         <tv>
             <name>河南公共</name>
-            <url tvsource="源1">http://live.hntv.tv/channels/tvie/video_channel_08/flv:hntv8_apple_200k/live</url>
         </tv>
         <tv>
             <name>河南新农村</name>
@@ -2062,7 +1846,6 @@
         </tv>
         <tv>
             <name>河南国际</name>
-            <url tvsource="源1">http://live.hntv.tv/channels/tvie/video_channel_10/flv:300k/live</url>
         </tv>
         <tv>
             <name>睛彩中原</name>
@@ -2072,7 +1855,6 @@
         <tv>
             <name>郑州时政</name>
             <url tvsource="源1">http://web-play.pptv.com/web-m3u8-301242.m3u8?type=phone.android</url>
-            <url tvsource="源2">http://119.167.230.154/live/5/45/4c93ba2473834557ac2ef54ea8fa4a3d.m3u8?type=m3u8.web.pad</url>
             <url tvsource="源3">http://url.52itv.cn/live/6E4E314D537937686132656B42333632625651514E2C9C.m3u8</url>
         </tv>
         <tv>
@@ -2184,7 +1966,6 @@
         <tv>
             <name>晴彩平顶山</name>
             <url tvsource="pptv">http://web-play.pptv.com/web-m3u8-301055.m3u8?type=phone.android</url>
-            <url tvsource="源1">http://222.89.193.98:8089/hls/jcpds.m3u8</url>
             <url tvsource="源4">rtmp://222.89.193.98/live/jcpds</url>
         </tv>
         <tv>
@@ -2194,63 +1975,50 @@
         </tv>
         <tv>
             <name>四川教育</name>
-            <url tvsource="源1">http://m3u8.sctv.com:51935/live/SCTV8_M.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>四川文艺</name>
-            <url tvsource="源1">http://m3u8.sctv.com:51935/live/SCTV2_M.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>四川公共</name>
             <url tvsource="源1">rtmp://rtmp.sctv.com/SRT_Live/SCTV9_N600%20swfUrl=http://js.sctv.com/jwplayer/mediaplayer5.8/player.swf</url>
-            <url tvsource="源2">http://m3u8.sctv.com:51935/live/SCTV9_M.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>四川影视</name>
             <url tvsource="源1">rtmp://rtmp.sctv.com/SRT_Live/SCTV5_N600%20swfUrl=http://js.sctv.com/jwplayer/mediaplayer5.8/player.swf</url>
-            <url tvsource="源2">http://m3u8.sctv.com:51935/live/SCTV5_M.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>四川新闻</name>
             <url tvsource="源1">rtmp://rtmp.sctv.com/SRT_Live/SCTV4_N600%20swfUrl=http://js.sctv.com/jwplayer/mediaplayer5.8/player.swf</url>
-            <url tvsource="源2">http://m3u8.sctv.com:51935/live/SCTV4_M.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>四川旅游</name>
             <url tvsource="源1">rtmp://rtmp.sctv.com/SRT_Live/SCTV2_N600%20swfUrl=http://js.sctv.com/jwplayer/mediaplayer5.8/player.swf</url>
-            <url tvsource="源2">http://m3u8.sctv.com:51935/live/SCTV2_M.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>四川儿童</name>
             <url tvsource="源1">rtmp://rtmp.sctv.com/SRT_Live/SCTV7_N600%20swfUrl=http://js.sctv.com/jwplayer/mediaplayer5.8/player.swf</url>
-            <url tvsource="源2">http://m3u8.sctv.com:51935/live/SCTV7_M.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>四川科教</name>
-            <url tvsource="源1">http://m3u8.sctv.com:51935/live/SCTV8_M.stream/playlist.m3u8</url>
             <url tvsource="源2">rtmp://rtmp.sctv.com/SRT_Live/SCTV8_N600%20swfUrl=http://js.sctv.com/jwplayer/mediaplayer5.8/player.swf</url>
         </tv>
         <tv>
             <name>四川购物</name>
-            <url tvsource="源1">http://m3u8.sctv.com:51935/live/SCTV6_M.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>四川少儿</name>
-            <url tvsource="源1">http://m3u8.sctv.com:51935/live/SCTV7_M.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>四川经济</name>
             <url tvsource="源1">rtmp://rtmp.sctv.com/SRT_Live/SCTV3_N600%20swfUrl=http://js.sctv.com/jwplayer/mediaplayer5.8/player.swf</url>
-            <url tvsource="源2">http://m3u8.sctv.com:51935/live/SCTV3_M.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>星空购物</name>
             <url tvsource="源1">rtmp://rtmp.sctv.com/SRT_Live/SCTV6_N600%20swfUrl=http://js.sctv.com/jwplayer/mediaplayer5.8/player.swf</url>
-            <url tvsource="源2">http://m3u8.sctv.com:51935/live/SCTV6_M.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>四川经视</name>
-            <url tvsource="源1">http://m3u8.sctv.com:51935/live/SCTV3_M.stream/playlist.m3u8</url>
         </tv>
         <tv>
             <name>成都新闻</name>
@@ -2266,7 +2034,6 @@
         </tv>
         <tv>
             <name>成都都市</name>
-            <url tvsource="源1">http://112.117.210.7:80/live/5/45/297b9fa839f14d5192490ea5a5626985.m3u8?type=52itv&amp;k=0bdf48a1ffeacb3ed52be9b80c8281f6</url>
             <url tvsource="源6">http://web-play.pptv.com/web-m3u8-300473.m3u8?type=phone.android</url>
             <url tvsource="源8">http://112.117.210.2:80/live/5/45/297b9fa839f14d5192490ea5a5626985.m3u8?type=52itv&amp;k=e4bc334c52214dc90775b10ae6d165f5</url>
             <url tvsource="源10">http://112.117.210.14:80/live/5/45/297b9fa839f14d5192490ea5a5626985.m3u8?type=52itv&amp;k=4bfd187469216d1ca37cf197c6ed4399</url>
@@ -2306,10 +2073,6 @@
         </tv>
         <tv>
             <name>广安多台</name>
-            <url tvsource="新闻">http://125.66.20.104:8081/flv0</url>
-            <url tvsource="公共">http://125.66.20.104:8081/flv100</url>
-            <url tvsource="互动">http://125.66.20.104:8081/flv200</url>
-            <url tvsource="科教">http://125.66.20.104:8081/flv300</url>
         </tv>
         <tv>
             <name>雨城新闻</name>
@@ -2454,19 +2217,15 @@
         </tv>
         <tv>
             <name>合肥故事</name>
-            <url tvsource="源1">http://live2.hfbtv.com/channels/hftv/live/flv:sd/live</url>
         </tv>
         <tv>
             <name>宣城综合</name>
-            <url tvsource="源1">http://live.newsxc.com/xwzh/sd/live.m3u8</url>
         </tv>
         <tv>
             <name>宣城经济</name>
-            <url tvsource="源1">http://live.newsxc.com/jjsh/sd/live.m3u8</url>
         </tv>
         <tv>
             <name>宣城文艺</name>
-            <url tvsource="源1">http://live.newsxc.com/jtwy/sd/live.m3u8</url>
         </tv>
         <tv>
             <name>池州综合</name>
@@ -2557,7 +2316,6 @@
         <tv>
             <name>湖北体育</name>
             <url tvsource="源1">http://live9.hbtv.com.cn/channels/zbk/hbty/flv:sd/live</url>
-            <url tvsource="hblt">http://113.57.230.25:554/live/hbty/playlist.m3u8</url>
         </tv>
         <tv>
             <name>湖北碟市</name>
@@ -2589,56 +2347,42 @@
         </tv>
         <tv>
             <name>晴彩湖北</name>
-            <url tvsource="源1">http://live9.hbtv.com.cn/channels/zbk/sjpd/flv:sd/live</url>
         </tv>
         <tv>
             <name>湖北垄上</name>
-            <url tvsource="源1">http://59.175.153.186/channels/zbk/gspd/flv:sd/live</url>
         </tv>
         <tv>
             <name>新疆汉语综合</name>
-            <url tvsource="源1">http://vodhyw.sobeycache.com/live/b6f0fa893b48461291cdf2adb7d21ff5?fmt=h264_800k_flv</url>
         </tv>
         <tv>
             <name>新疆维语综合</name>
-            <url tvsource="源1">http://vodhyw.sobeycache.com/live/a10ed15a920c49c895e22e4648b0cb35?fmt=h264_800k_flv</url>
-            <url tvsource="源3">http://hls17.cntv.chinacache.net/cache/28_/seg0/index.m3u8</url>
         </tv>
         <tv>
             <name>新疆哈语综合</name>
-            <url tvsource="源1">http://vodhyw.sobeycache.com/live/4fd2c6f12b0245358dd5f331818f82ac?fmt=h264_800k_flv</url>
         </tv>
         <tv>
             <name>新疆维语综艺</name>
-            <url tvsource="源1">http://vodhyw.sobeycache.com/live/3f989059b6674b498a4ae95faf708ec9?fmt=h264_800k_flv</url>
         </tv>
         <tv>
             <name>新疆汉语经济生活</name>
-            <url tvsource="源1">http://vodhyw.sobeycache.com/live/216d51be8ca140a99a55e4a1e2689651?fmt=h264_800k_flv</url>
         </tv>
         <tv>
             <name>新疆哈语综艺</name>
-            <url tvsource="源1">http://vodhyw.sobeycache.com/live/6a4c3eb0730c41e1a47825cb2742ebc6?fmt=h264_800k_flv</url>
         </tv>
         <tv>
             <name>新疆维语经济生活</name>
-            <url tvsource="源1">http://vodhyw.sobeycache.com/live/91f61dff5e5c43bf876de449b52f2211?fmt=h264_800k_flv</url>
         </tv>
         <tv>
             <name>新疆维语新闻</name>
-            <url tvsource="源2/2">http://vodhyw.sobeycache.com/live/a10ed15a920c49c895e22e4648b0cb35?fmt=h264_800k_flv</url>
         </tv>
         <tv>
             <name>新疆体育频道</name>
-            <url tvsource="源1">http://vodhyw.sobeycache.com/live/bb880178f3ce49dd9772774cdced1262?fmt=h264_800k_flv</url>
         </tv>
         <tv>
             <name>新疆法制信息</name>
-            <url tvsource="源1">http://vodhyw.sobeycache.com/live/5694956c33814f7086035573a9f2e209?fmt=h264_800k_flv</url>
         </tv>
         <tv>
             <name>新疆少儿</name>
-            <url tvsource="源2">http://vodhyw.sobeycache.com/live/4e923cb06c1b4e85b0173db6c61cabb1?fmt=h264_800k_flv</url>
         </tv>
         <tv>
             <name>乌鲁木齐综合</name>
@@ -2678,25 +2422,18 @@
         </tv>
         <tv>
             <name>昆明新闻</name>
-            <url tvsource="GF">http://14.204.23.68/live/611e29c0cdb644bdbb929f527fefb844?fmt=h264_800k_flv</url>
         </tv>
         <tv>
             <name>昆明阳光</name>
-            <url tvsource="GF">http://14.204.23.68/live/1474b3059ebe4cd2a2ac2e1d23bb7c45?fmt=h264_800k_flv</url>
         </tv>
         <tv>
             <name>昆明健康</name>
-            <url tvsource="GF">http://video.kunmingbc.com/live/eba45c00e62e4a73ae510a8ec546218d?fmt=h264_800k_flv</url>
-            <url tvsource="源1">http://14.204.23.68/live/eba45c00e62e4a73ae510a8ec546218d?fmt=h264_800k_flv</url>
         </tv>
         <tv>
             <name>昆明影视</name>
-            <url tvsource="GF">http://video.kunmingbc.com/live/6c12ad3b9bd24771a90a5d7aa8658551?fmt=h264_800k_flv</url>
         </tv>
         <tv>
             <name>昆明春城</name>
-            <url tvsource="GF">http://video.kunmingbc.com/live/6e5fe2b5907b43ad8366208b3e1ee07c?fmt=h264_800k_flv</url>
-            <url tvsource="源1">http://14.204.23.68/live/6e5fe2b5907b43ad8366208b3e1ee07c?fmt=h264_800k_flv</url>
         </tv>
         <tv>
             <name>呼市新闻</name>
@@ -2737,28 +2474,21 @@
         </tv>
         <tv>
             <name>山西经济</name>
-            <url tvsource="GF1">http://218.26.188.211/flvss?bitrate=800000&amp;channel=Shan1XiFinance</url>
-            <url tvsource="GF">http://218.26.188.207/flvss?bitrate=512000&amp;channel=Shan1XiFinance&amp;start=0</url>
         </tv>
         <tv>
             <name>山西科教</name>
-            <url tvsource="GF1">http://218.26.188.211/flvss?bitrate=800000&amp;channel=Shan1XiEdu</url>
             <url tvsource="GF">http://218.26.188.207/flvss?bitrate=512000&amp;channel=Shan1XiEdu&amp;start=0</url>
         </tv>
         <tv>
             <name>山西影视</name>
             <url tvsource="GF1">http://218.26.188.211/flvss?bitrate=800000&amp;channel=Shan1XiFilm</url>
-            <url tvsource="GF">http://218.26.188.211/flvss?bitrate=512000&amp;channel=Shan1XiFilm&amp;start=0</url>
         </tv>
         <tv>
             <name>山西公共</name>
-            <url tvsource="GF1">http://218.26.188.211/flvss?bitrate=800000&amp;channel=Shan1XiPublic</url>
-            <url tvsource="GF">http://218.26.188.211/flvss?bitrate=512000&amp;channel=Shan1XiPublic&amp;start=0</url>
         </tv>
         <tv>
             <name>山西少儿</name>
             <url tvsource="GF1">http://218.26.188.211/flvss?bitrate=800000&amp;channel=Shan1XiChild</url>
-            <url tvsource="GF">http://218.26.188.211/flvss?bitrate=512000&amp;channel=Shan1XiChild&amp;start=0</url>
         </tv>
         <tv>
             <name>彩民在线</name>
@@ -2767,7 +2497,6 @@
         </tv>
         <tv>
             <name>老年福</name>
-            <url tvsource="GF1">http://218.26.188.211/flvss?bitrate=800000&amp;channel=LaoNianFu</url>
             <url tvsource="GF">http://218.26.188.207/flvss?bitrate=512000&amp;channel=LaoNianFu&amp;start=0</url>
         </tv>
         <tv>
@@ -2781,80 +2510,60 @@
         </tv>
         <tv>
             <name>太原百姓</name>
-            <url tvsource="源1">http://tsl.ntv.cutv.com:91/cutvlive/u8BmT6h/hls/live.m3u8</url>
         </tv>
         <tv>
             <name>太原法治</name>
-            <url tvsource="源1">http://tsl.ntv.cutv.com:91/cutvlive/phsry3e/hls/live.m3u8</url>
         </tv>
         <tv>
             <name>太原文体</name>
-            <url tvsource="源1">http://tsl.ntv.cutv.com:91/cutvlive/rk8Z088/hls/live.m3u8</url>
         </tv>
         <tv>
             <name>太原家庭</name>
-            <url tvsource="源1">http://tsl.ntv.cutv.com:91/cutvlive/iancgyD/hls/live.m3u8</url>
         </tv>
         <tv>
             <name>太原影视</name>
-            <url tvsource="源1">http://tsl.ntv.cutv.com:91/cutvlive/J4EX72D/hls/live.m3u8</url>
         </tv>
         <tv>
             <name>天津新闻</name>
-            <url tvsource="源1">http://61.181.152.138:556/9082</url>
         </tv>
         <tv>
             <name>天津文艺</name>
-            <url tvsource="源1">http://61.181.152.138:556/9083</url>
         </tv>
         <tv>
             <name>天津影视</name>
-            <url tvsource="源1">http://61.181.152.138:556/9084</url>
         </tv>
         <tv>
             <name>天津都市</name>
-            <url tvsource="源1">http://61.181.152.138:556/9085</url>
         </tv>
         <tv>
             <name>天津科教</name>
-            <url tvsource="源1">http://61.181.152.138:556/9087</url>
         </tv>
         <tv>
             <name>天津少儿</name>
-            <url tvsource="源1">http://61.181.152.138:556/9088</url>
         </tv>
         <tv>
             <name>天津公共</name>
-            <url tvsource="源1">http://61.181.152.138:556/9092</url>
         </tv>
         <tv>
             <name>天津国际</name>
-            <url tvsource="源1">http://61.181.152.138:556/9093</url>
         </tv>
         <tv>
             <name>天津体育</name>
             <url tvsource="TJDX">http://111.161.72.146:8083/videos/live/52/9/9golYS3pLQRCP/9golYS3pLQRCP.M3U8</url>
-            <url tvsource="源1">http://61.181.152.138:556/9086</url>
         </tv>
         <tv>
             <name>3D-HD MEDIA</name>
-            <url tvsource="源1">http://www.hdmedia.ru/3d/3d.php</url>
-            <url tvsource="源2">http://93.95.99.231:9500/udp/234.1.1.26:10000</url>
         </tv>
         <tv>
             <name>3D-planet TV</name>
-            <url tvsource="源1">http://95.67.10.42:8080</url>
         </tv>
         <tv>
             <name>湖南卫视HD</name>
             <url tvsource="114">http://101.71.82.51:80/live/5/30/e9301e073cf94732a380b765c8b9573d.m3u8?pre=ikan&amp;type=phone.ios</url>
-            <url tvsource="HS">http://119.167.230.154/live/5/45/e9301e073cf94732a380b765c8b9573d.m3u8?type=m3u8.web.pad</url>
             <url tvsource="box">http://119.167.140.33:80/live/5/30/e9301e073cf94732a380b765c8b9573d.m3u8?type=m3u8.web.pad</url>
         </tv>
         <tv>
             <name>北京卫视HD</name>
-            <url tvsource="QQ2">http://zb.v.qq.com:1863/?progid=2414742998</url>
-            <url tvsource="pptv">http://web-play.pptv.com/web-m3u8-300166.m3u8?type=phone.android</url>
             <url tvsource="box">http://play.api.pptv.com/web-m3u8-300166.m3u8?type=phone.android</url>
             <url tvsource="SOHU">http://vapptime.cntv.wscdns.com/cache/184_/seg0/index.m3u8</url>
         </tv>
@@ -2869,15 +2578,12 @@
         <tv>
             <name>东方卫视HD</name>
             <url tvsource="源3">http://zb.v.qq.com:1863/?progid=3900155972</url>
-            <url tvsource="pptv">http://web-play.pptv.com/web-m3u8-300145.m3u8?type=phone.android</url>
             <url tvsource="117">http://zb.v.qq.com:1863/?progid=3900155972&amp;ostype=live&amp;ext=.flv</url>
         </tv>
         <tv>
             <name>浙江卫视HD</name>
             <url tvsource="qq">http://zb.v.qq.com:1863/?progid=1975434150&amp;ostype=live&amp;ext=.flv</url>
-            <url tvsource="QQ">http://zb.v.qq.com:1863/?progid=1975434150</url>
             <url tvsource="pptv">http://web-play.pptv.com/web-m3u8-300164.m3u8?type=phone.android</url>
-            <url tvsource="源6">http://hywylf.2ct.org/qqflv.php?1975434150</url>
             <url tvsource="源9">http://cachetv.duapp.com/iptv_sztx_dx/1975434150.flv</url>
         </tv>
         <tv>
@@ -2890,7 +2596,6 @@
         <tv>
             <name>广东卫视HD</name>
             <url tvsource="QQ1">http://zb.v.qq.com:1863/?progid=857894899</url>
-            <url tvsource="QQ">http://hywylf.2ct.org/qqflv.php?857894899</url>
             <url tvsource="SOHU">http://live.64ma.com/livePlay.asp?sohuId=60</url>
             <url tvsource="LONG">http://zb.v.qq.com:1863/?progid=857894899&amp;ostype=live&amp;ext=.flv</url>
             <url tvsource="101">rtsp://101.71.8.19:554/hdmi/gdtv1hd.stream</url>
@@ -2918,7 +2623,6 @@
             <name>济南新闻HD</name>
             <url tvsource="源1">rtmp://124.128.26.173/live/xwhd_hd</url>
             <url tvsource="源2">http://m3u8.ijntv.cn/xwhd/hd/live.m3u8</url>
-            <url tvsource="源3">http://stream1.ijntv.cn/xwhd/hd/live.m3u8</url>
         </tv>
         <tv>
             <name>甘肃影视</name>
@@ -2964,3 +2668,4 @@
         </tv>
     </tvlist>
 </xml>
+
