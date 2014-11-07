@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
 <tvlist label="NICO LIVE">
+<tvCategory>
+<category>
+<id>0</id>
+<name>全部</name>
+</category>
+<category>
+<id>1</id>
+<name>央视频道</name>
+</category>
+<category>
+<id>2</id>
+<name>卫视频道</name>
+</category>
+<category>
+<id>3</id>
+<name>本地频道</name>
+</category>
+<category>
+<id>4</id>
+<name>收藏</name>
+</category>
+</tvCategory>
 <tv>
 <name>新华中文</name>
 <url>http://mobile.xinhuashixun.com/Live/cncHD.m3u8</url>
