@@ -20,6 +20,14 @@
     </channel>
     <channel> 
       <id>4</id>  
+      <name>影视频道</name> 
+    </channel>
+    <channel> 
+      <id>5</id>  
+      <name>体育频道</name> 
+    </channel>
+    <channel> 
+      <id>6</id>  
       <name>广播电台</name> 
     </channel>
     <channel> 
