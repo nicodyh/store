@@ -26,10 +26,6 @@
       <id>5</id>  
       <name>其他</name> 
     </channel>
-    <channel> 
-      <id>100</id>  
-      <name>自定义频道</name> 
-    </channel>
   </channels>  
    <tvs>
       <tv>
