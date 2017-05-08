@@ -1,7 +1,7 @@
 {
     "url": "https://raw.githubusercontent.com/nicodyh/store/master/Ango_c9_v1.1.8_20170505-release.apk",
     "code": 1,
-    "description": "1、新增一键拍照、一键录像和adas语音播报开关功能；\r\n2、新增视频录像和图片下载、预览功能；\r\n3、新增分享图片到微信好友或朋友圈功能；\r\n4、解决设备wifi名称不是car-dvr时，设备无法完成初始化问题；\r\n5、解决轨迹坐标偏移问题；\r\n6、解决登录获取验证码网络不可用没有提示的问题；\r\n7、解决预览退出后低概率出现内存增加崩溃问题；\r\n8、解决预览车筐和数字图片资源加载失败问题；\r\n9、解决解码时概率性出现内存溢出问题；\r\n10、修改Adas参数配置和重连时间配置。",
+    "description": "APP是以ADAS为主的车联网产品，以硬件为ADAS载体主动提醒用户行车安全。ADAS（Advanced Driving Assistant System），即高级驾驶辅助系统，即在驾车过程中仍然以驾驶员为主导，APP 中的ADAS 起到提醒驾驶员、并在危急情况下反复提醒",
     "name": "Ango_c9_v1.1.8_20170505-release.apk",
     "md5": "08a8a38d3d3fd66892065ac32ab54c70"
 }
